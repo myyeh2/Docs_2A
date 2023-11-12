@@ -371,9 +371,15 @@ Console.Write("\n實數矩陣C :\n{0}\n", new PR(C));
 */
 ```
 
+<<<<<<< HEAD
 ![](/Images/08-18-12.png)  
 
 ![](/Images/08-18-13.png)  
+=======
+![](Images/08-18-12.png)  
+
+![](Images/08-18-13.png)  
+>>>>>>> origin/main
 
 <!--   
 #### ( 6 ) 數值運算類別庫
@@ -402,7 +408,11 @@ Console.Write("\n實數矩陣C :\n{0}\n", new PR(C));
 > 至於類別的方法、屬性等元素，可以使用智慧型的感知器 ( \( IntelliSense \) ) 查詢，類別名稱後面加 \( "." \) 可顯示内容。
 -->  
 
+<<<<<<< HEAD
 ![](Images/08-18-14.png)  
+=======
+![](Images/08-18-14.png)   
+>>>>>>> origin/main
 
 <!--    
 ### 技術支援與訂購資訊
@@ -426,7 +436,11 @@ Console.Write("\n實數矩陣C :\n{0}\n", new PR(C));
 \( {\color{red}*****************************************}  \)
 -->
 
+<<<<<<< HEAD
 ![](Images/11-12-01.png)  
+=======
+![](Images/08-18-15.png) 
+>>>>>>> origin/main
 
 <!--     
 - 請務必先安裝微軟Visual Studio 2022 Community或是任何版本，並且使用C#程式語言執行專案。
@@ -439,3 +453,8 @@ Console.Write("\n實數矩陣C :\n{0}\n", new PR(C));
 
 \[  \quad \]    \[  \quad \]  
 -->  
+<<<<<<< HEAD
+=======
+
+#  
+>>>>>>> origin/main
