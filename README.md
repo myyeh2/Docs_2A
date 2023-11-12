@@ -432,7 +432,7 @@ Console.Write("\n實數矩陣C :\n{0}\n", new PR(C));
 - 請務必先安裝微軟Visual Studio 2022 Community或是任何版本，並且使用C#程式語言執行專案。
 - SMS【\({\color{red}S}\)harp \({\color{red}M}\)atrix \({\color{red}S}\)olver】軟體，儲存於USB隨身碟内的Matrix_0.dll檔案，拷貝至您的硬碟上，開啓微軟Visual Studio 調整為Dot Net Framework 4.8版或是以下版本。再點選專案 > 加入參考 > Matrix_0.dll檔案。並且於C#程式前加入 " \( \, Using \enspace Matrix \_ 0 ; \, \) " 【name space】的名稱空間。請參考程式碼範例。
 - SMS軟體屬於精銳矩陣計算工作室所有，請遵守軟體的著作權、勿拷貝、勿傳送、勿再轉賣等等，若不同意者，請勿購買。
-- SMS軟體為NT$2500元，購買者請傳真或Email通知本人。但本隨身碟不退貨，除非損壞無法使用除外。
+- SMS軟體為NT$3000元，購買者請傳真或Email通知本人。但本隨身碟不退貨，除非損壞無法使用除外。
 - 有限度支援與本軟體有關的技術。
 
 \( \quad { \color{red} \therefore \quad \therefore } \quad 本工作室尋求合作夥伴，共同開發相關矩陣計算的軟體 \quad { \color{red} \therefore \quad \therefore } \)
