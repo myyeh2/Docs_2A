@@ -1,6 +1,6 @@
 <!--    Doc_2A Documentation      --> 
 
-![圖片01](Image2\08-18-01.png)  
+![](Images/08-18-01.png)  
 
 <!-- 
 # \[ {\color{red}精銳矩陣計算求解器}\]
@@ -8,14 +8,13 @@
 ### \[ {\color{red} (Sharp \enspace Matrix \enspace Solver, \enspace SMS)}\]
 -->
 
+![](Images/08-18-02.png)  
 
-![圖片02](Image2\08-18-02.png)  
+![](Images/08-18-03.png)  
 
-![圖片03](Image2\08-18-03.png)  
+![](Images/08-18-04.png)  
 
-![圖片04](Image2\08-18-04.png)  
-
-![圖片05](Image2\08-18-05.png)  
+![](Images/08-18-05.png)  
 
 <!--  
 使用矩陣計算的方法，求解整個系統的動態響應，系統包含空間維度( \( Space \ Dimension \)，以【M】表示)、狀態維度( \( State \ Dimension \)，以【R】表示)、和時間維度( \( Time \ Dimension \)，以【T】表示)的數值計算方法，稱作 \( MRT \) 維度，將時間維度和狀態維度合併，成為狀態的時間函數，即 \( \ y(t), \,  \dot {y}(t), \, \ddot {y}(t), \, \cdots  \) 等依此類推。
@@ -143,15 +142,13 @@ B:
 */
 ```  
 
-![圖片06](Image2\08-18-06.png)  
+![](Images/08-18-06.png)  
 
 <!--  
 #### ( 3 ) 維度和自由度
 
 維度( \( Dimension，Dim \) )指的是水平方向的列( \( Row \) )，自由度( \(Degree \enspace Of \enspace  Freedom，DOF\) )指的是垂直方向的行( \( Column \) )，線性代數和矩陣計算等數學的書，所指的矩陣( \( Matrix \) )和向量( \( Vector \) )，和一般軟體所定義稍有不同，矩陣或是向量變數( \( Variable \) )，應於變數的前方宣告，舉例説明如下。  
 -->
-
-
 
 ```CSharp
 using System;
@@ -210,7 +207,7 @@ A4 列向量，印出結果與A2完全相同，但型態不同[R1]:
 */
 ```
 
-![圖片07](Image2\08-18-07.png)  
+![](Images/08-18-07.png)  
 
 <!--      
 #### ( 4 ) 精準矩陣求解方程式
@@ -235,13 +232,13 @@ A4 列向量，印出結果與A2完全相同，但型態不同[R1]:
 
 -->
 
-![圖片08](Image2\08-18-08.png)  
+![](Images/08-18-08.png)  
 
-![圖片09](Image2\08-18-09.png)  
+![](Images/08-18-09.png)  
 
-![圖片10](Image2\08-18-10.png)  
+![](Images/08-18-10.png)  
 
-![圖片11](Image2\08-18-11.png)      
+![](Images/08-18-11.png)      
 
 <!-- 
 \( \quad 參考儲存庫App-6P  \)
@@ -374,9 +371,9 @@ Console.Write("\n實數矩陣C :\n{0}\n", new PR(C));
 */
 ```
 
-![圖片12](Image2\08-18-12.png)  
+![](/Images/08-18-12.png)  
 
-![圖片13](Image2\08-18-13.png)  
+![](/Images/08-18-13.png)  
 
 <!--   
 #### ( 6 ) 數值運算類別庫
@@ -405,7 +402,7 @@ Console.Write("\n實數矩陣C :\n{0}\n", new PR(C));
 > 至於類別的方法、屬性等元素，可以使用智慧型的感知器 ( \( IntelliSense \) ) 查詢，類別名稱後面加 \( "." \) 可顯示内容。
 -->  
 
-![圖片14](Image2\08-18-14.png)   
+![](Images/08-18-14.png)  
 
 <!--    
 ### 技術支援與訂購資訊
@@ -429,13 +426,13 @@ Console.Write("\n實數矩陣C :\n{0}\n", new PR(C));
 \( {\color{red}*****************************************}  \)
 -->
 
-![圖片15](Image2\08-18-15.png) 
+![](Images/11-12-01.png)  
 
 <!--     
 - 請務必先安裝微軟Visual Studio 2022 Community或是任何版本，並且使用C#程式語言執行專案。
 - SMS【\({\color{red}S}\)harp \({\color{red}M}\)atrix \({\color{red}S}\)olver】軟體，儲存於USB隨身碟内的Matrix_0.dll檔案，拷貝至您的硬碟上，開啓微軟Visual Studio 調整為Dot Net Framework 4.8版或是以下版本。再點選專案 > 加入參考 > Matrix_0.dll檔案。並且於C#程式前加入 " \( \, Using \enspace Matrix \_ 0 ; \, \) " 【name space】的名稱空間。請參考程式碼範例。
 - SMS軟體屬於精銳矩陣計算工作室所有，請遵守軟體的著作權、勿拷貝、勿傳送、勿再轉賣等等，若不同意者，請勿購買。
-- SMS軟體為NT$2500元，購買者請傳真或Email通知本人。但本隨身碟不退貨，除非損壞無法使用除外。
+- SMS軟體為NT$3000元，購買者請傳真或Email通知本人。但本隨身碟不退貨，除非損壞無法使用除外。
 - 有限度支援與本軟體有關的技術。
 
 \( \quad { \color{red} \therefore \quad \therefore } \quad 本工作室尋求合作夥伴，共同開發相關矩陣計算的軟體 \quad { \color{red} \therefore \quad \therefore } \)
