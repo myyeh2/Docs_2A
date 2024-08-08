@@ -371,11 +371,10 @@ Console.Write("\n實數矩陣C :\n{0}\n", new PR(C));
 */
 ```
 
-<<<<<<< HEAD
 ![](/Images/08-18-12.png)  
 
 ![](/Images/08-18-13.png)  
-=======
+
 ![](Images/08-18-12.png)  
 
 ![](Images/08-18-13.png)  
