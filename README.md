@@ -379,7 +379,6 @@ Console.Write("\n實數矩陣C :\n{0}\n", new PR(C));
 ![](Images/08-18-12.png)  
 
 ![](Images/08-18-13.png)  
->>>>>>> origin/main
 
 <!--   
 #### ( 6 ) 數值運算類別庫
@@ -404,15 +403,11 @@ Console.Write("\n實數矩陣C :\n{0}\n", new PR(C));
 第三群組類別 : 線分割段 \(Arange\) 和 \(LinSpace\) ，參考程式語言\(Python\) 的 \(arange() \) 和 \(linspace()\) 兩函式而建構，兩者最大差別是 \(Arange\) 和 \(LinSpace\) 是屬於一維陣列物件，而不是函式，但可隱性轉爲二維陣列。
 
 第四群組類別 : 由微分方程式建構系統矩陣 \(MKCMatrix，ToCompanion，Roots\) 類別，將多個小型的矩陣，或是微分方程式，合併成一個大型的系統矩陣 \( {\color{red} A} \)。
-
-> 至於類別的方法、屬性等元素，可以使用智慧型的感知器 ( \( IntelliSense \) ) 查詢，類別名稱後面加 \( "." \) 可顯示内容。
 -->  
 
-<<<<<<< HEAD
+> 至於類別的方法、屬性等元素，可以使用智慧型的感知器(IntelliSense)查詢，即類別名稱後面加"."可顯示内容。
+
 ![](Images/08-18-14.png)  
-=======
-![](Images/08-18-14.png)   
->>>>>>> origin/main
 
 <!--    
 ### 技術支援與訂購資訊
@@ -436,11 +431,9 @@ Console.Write("\n實數矩陣C :\n{0}\n", new PR(C));
 \( {\color{red}*****************************************}  \)
 -->
 
-<<<<<<< HEAD
-![](Images/11-12-01.png)  
-=======
+![](Images/11-12-01.png)
+
 ![](Images/08-18-15.png) 
->>>>>>> origin/main
 
 <!--     
 - 請務必先安裝微軟Visual Studio 2022 Community或是任何版本，並且使用C#程式語言執行專案。
@@ -453,8 +446,5 @@ Console.Write("\n實數矩陣C :\n{0}\n", new PR(C));
 
 \[  \quad \]    \[  \quad \]  
 -->  
-<<<<<<< HEAD
-=======
 
 #  
->>>>>>> origin/main
